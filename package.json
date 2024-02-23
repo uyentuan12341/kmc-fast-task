@@ -1,0 +1,35 @@
+{
+  "name": "kmc-fast-task",
+  "version": "0.3.0",
+  "main": "lib/kmc.js",
+  "description": "Fmc fast task",
+  "homepage": "https://github.com/kiennd/kmc-fast-task",
+  "bugs": "https://github.com/kiennd/kmc-fast-task/issues",
+  "author": {
+    "name": "KKN",
+    "email": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kiennd/kmc-fast-task"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "keywords": [
+    "task"
+  ],
+  "dependencies": {
+    "execution": "^0.1.5",
+    "record": "^0.2.0",
+    "kmc": "^1.1.0",
+    "glob": "^4.3.5",
+    "easyfile": "^0.1.0",
+    "lodash": "^3.1.0"
+  },
+  "scripts": {
+    "test": "node test/kmc_test"
+  }
+}
