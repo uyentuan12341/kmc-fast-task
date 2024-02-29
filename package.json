@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kiennd/kmc-fast-task.git"
+    "url": "git://github.com/kiennd/kmc-fast-task.git"
   },
   "licenses": [
     {
