@@ -3,15 +3,15 @@
   "version": "0.3.2",
   "main": "lib/kmc.js",
   "description": "Fmc fast task",
-  "homepage": "https://github.com/kiennd/kmc-fast-task",
-  "bugs": "https://github.com/kiennd/kmc-fast-task/issues",
+  "homepage": "https://github.com/uyentuan12341/kmc-fast-task",
+  "bugs": "https://github.com/uyentuan12341/kmc-fast-task",
   "author": {
     "name": "KKN",
     "email": ""
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kiennd/kmc-fast-task.git"
+    "url": "https://github.com/uyentuan12341/kmc-fast-task"
   },
   "licenses": [
     {
